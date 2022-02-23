@@ -21,10 +21,10 @@
   
   <br/><br/>
   
-  ![wlsdnr658's github stats](https://github-readme-stats.vercel.app/api?username=wlsdnr658&show_icons=true)
+![wlsdnr658's github stats](https://github-readme-stats.vercel.app/api?username=wlsdnr658&show_icons=true)
 [![wlsdnr658's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdnr658&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wlsdnr658)
   
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdnr568">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdnr568)](https://solved.ac/wlsdnr568/)
 
 <!--
 **wlsdnr658/wlsdnr658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
